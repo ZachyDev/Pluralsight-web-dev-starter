@@ -4,4 +4,4 @@ let  person = {
     
 };
 
-showMessage(typeof person);
+showMessage(person.lastName);
