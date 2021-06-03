@@ -1,5 +1,5 @@
-//  declaring variables using let keyword
+let price = 20.00;
 
-let welcome = "Hello World";
+price += 1;
 
-showMessage(welcome);
+showMessage(price)
