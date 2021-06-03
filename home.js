@@ -1,7 +1,7 @@
-let message = "hello";
+let  person = {
+    firstName: "Zachary",
+    lastName: "Moseti",
+    
+};
 
-message = null;
-
-showMessage(message);
-
-console.log(message)
+showMessage(typeof person);
