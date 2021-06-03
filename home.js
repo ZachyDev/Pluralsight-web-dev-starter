@@ -1,4 +1,5 @@
-showMessage ('Changes...');
+//  declaring variables using let keyword
 
-showMessage ('Change2...')
-<>sdipeyhoiyhr
+let welcome = "Hello World";
+
+showMessage(welcome);
