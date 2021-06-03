@@ -1,3 +1,7 @@
-let amount = Number.parseFloat("123");
+let message = "hello";
 
-showMessage(typeof amount);
+message = null;
+
+showMessage(message);
+
+console.log(message)
