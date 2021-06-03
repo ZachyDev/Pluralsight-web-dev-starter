@@ -1,3 +1,3 @@
-function showMessage(message) {
+const showMessage = message => {
     document.getElementById('message').textContent = message;
 }

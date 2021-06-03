@@ -1,2 +1,1 @@
-
-showMessage('help');
+showMessage('Changes...')
