@@ -1,5 +1,4 @@
-let price = 20.00;
+let price = 20,
+    taxRate = 0.07;
 
-price += 1;
-
-showMessage(price)
+showMessage(price * taxRate);
