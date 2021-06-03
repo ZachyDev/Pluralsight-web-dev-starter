@@ -1,2 +1,5 @@
-let price = 1.1 + 1.3;
-showMessage(price);
+let studentName = "Zachary";
+
+let msg = `Hello Developer ${studentName}`;
+
+showMessage(msg);
