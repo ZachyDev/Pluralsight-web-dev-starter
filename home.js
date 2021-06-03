@@ -1,7 +1,5 @@
-let studentName = "Zachary";
+let message = "Hello";
 
-studentName += "Moseti";
+message = message.substring(1);
 
-let msg = `Hello Developer ${studentName}`.toLowerCase();
-
-showMessage(msg);
+showMessage(message);
